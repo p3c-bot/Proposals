@@ -1,20 +1,20 @@
 # Treasury
 
-The P3C.io system creates three things: Status, Access, and Income. The P3C community wants to encourage businesses built on top of it that can increase the size of P3C, while providing these benefits to customers and businesses. There are a few ways for businesses to be built on top of P3C:
+The P33 system creates three things: Status, Access, and Income. The P3C community wants to encourage businesses built on top of it that can increase the size of P3C system, while providing benefits to customers and businesses. There are a few ways for businesses to be built on top of P3C:
 
-1. Users can buy through your masternode. This means you would earn 3% of the amount being spent, and the rest goes back to the user in the form of P3C.
-2. You can send money directly to the dividends interface, which spreads it to the entire community.
-3. You can buy and hold P3C tokens yourself, and reinvest the dividends as a group.
+1. Users can buy through a company masternode. This means the business would earn 3% of the amount being spent, and the rest goes back to the user in the form of P3C.
+2. A business can send money directly to the dividends interface, which spreads it to the entire community. It can use this to encourage P3C holders to use it.
+3. The business can buy and hold P3C tokens itself, and reinvest the dividends as a group.
 
 ... there can be many more, feel free to propose one.
 
 # What are some examples? 
 
-* A moving business wants the ability to pay subcontractors easily, so they take a little bit of money from each job and give some to customers and the subcontractor.
+* A moving business wants the ability to pay subcontractors easily, so they take a little bit of money from each job and give some to customers and the subcontractor in the form of P3C. This encourages both parties to work with the businesses again.
 
 * A game wants to get more users, so they take some of the money paid by players and spend it through the game's masternode. The P3C is then given back to the users. 
 
-* A store wants to use P3C as a rewards system. Every good that is purchased is returned with a little P3C.
+* A store wants to use P3C as a rewards system. Every good that is purchased is returned with a little P3C to the customer.
 
 * A small online community wants to pool its ad dollars, so any ad that gets displayed is used to buy P3C which is shared amongst the community.
 
